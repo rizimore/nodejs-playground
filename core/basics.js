@@ -21,7 +21,6 @@ let k = Infinity; // infinity
 
 console.log(typeof j); // to checkout data type
 
-
 // conditional statements
 
 // iteration statements
