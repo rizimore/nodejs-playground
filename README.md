@@ -3,7 +3,7 @@
 
 ## Roadmap
 - [ ] core
-    - [ ] basics
+    - [x] basics
     - [ ] events emitter
     - [ ] callbacks
     - [ ] buffers
