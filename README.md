@@ -1,6 +1,5 @@
 # NodeJS Playground
 
-
 ## Roadmap
 - [ ] core
     - [x] basics
@@ -48,7 +47,7 @@
     - [ ] agenda
     - [ ] cronicle
     - [ ] node schedule
-  
+
 - [ ] micro services
     - [ ] message broker
         - [ ] rabbit mq
@@ -56,7 +55,7 @@
         - [ ] bus mq
 - [ ] design patterns
     - [ ] factory
-      
+
     - [ ] prototype
 - [ ] packages
     - [ ] socket.io
