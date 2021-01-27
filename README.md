@@ -5,6 +5,7 @@ v8, libuv, http-parser, c-ares, openssl, zlib
 ## Roadmap
 - [ ] core
     - [x] basics
+    - [ ] input / output
     - [ ] events emitter
     - [ ] callbacks
     - [ ] buffers
