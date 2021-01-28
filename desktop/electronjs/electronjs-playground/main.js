@@ -8,7 +8,7 @@ function createWindow () {
             nodeIntegration: true
         }
     })
-
+    win.setProgressBar(0.5)
     win.loadFile('index.html')
 }
 
